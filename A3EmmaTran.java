@@ -1,11 +1,4 @@
 /**
- *
- * A3EmmaTran
- * COMP 2140 SECTION A01
- * INSTRUCTOR Cuneyt Akcora
- * ASSIGNMENT Assignment #3
- * @author Emma Tran, 7876069, tranmb@myumanitoba.ca
- * @version Monday, March 9th 2020
  * PURPOSE: The purpose of this assignment is to write Java programs and implement various queue and linked
  * list algorithms. Then you will write a brief report describing your results, in the comments of your program;
  * see the end of this document
