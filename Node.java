@@ -1,4 +1,3 @@
-// COMP 2140 SECTION A01
 //
 // PURPOSE: This file implements one node in a linked list. Each node stores
 // an item of generic type <E> and a reference to the next node in the list.
